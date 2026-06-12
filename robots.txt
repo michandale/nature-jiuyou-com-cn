@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://michandale.github.io/nature-jiuyou-com-cn/sitemap.xml
